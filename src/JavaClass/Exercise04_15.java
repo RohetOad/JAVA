@@ -1,3 +1,30 @@
+/*
+Project: Phone keypads (100 points)
+Problem Description:
+The international standard letter/number mapping found
+on the telephone is shown below:
+1 2
+ABC
+3
+DEF
+4
+GHI
+5
+JKL
+6
+MNO
+7
+PQRS
+8
+TUV
+9
+WXYZ
+0
+Write a program that reads a letter and displays its
+corresponding digit.
+ */
+
+
 package JavaClass;
 
 import java.util.Scanner;
